@@ -1,0 +1,376 @@
+C:\Users\Mike\Documents\Shu Classes\Senior Project\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.exe
+C:\Users\Mike\Documents\Shu Classes\Senior Project\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Mike\Documents\Shu Classes\Senior Project\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Shu Classes\Senior Project\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Mike\Documents\Shu Classes\Senior Project\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.exe
+C:\Users\Mike\Documents\Shu Classes\Senior Project\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Mike\Documents\Shu Classes\Senior Project\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyWalkup.xnb
+C:\Users\Conor\Dropbox\Senior Project\Prototype version 2.1\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Dropbox\Senior Project\Prototype version 2.1\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Dropbox\Senior Project\Prototype version 2.1\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.csprojResolveAssemblyReference.cache
+C:\Users\Conor\Dropbox\Senior Project\Prototype version 2.1\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Conor\Dropbox\Senior Project\Prototype version 2.1\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Dropbox\Senior Project\Prototype version 2.1\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Dropbox\Senior Project\Prototype version 2.1\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Conor\Dropbox\Senior Project\Prototype version 2.1\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove.xnb
+C:\Users\Conor\Dropbox\Senior Project\Prototype version 2.1\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMove.xnb
+C:\Users\Conor\Dropbox\Senior Project\Prototype version 2.1\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove2.xnb
+C:\Users\Conor\Dropbox\Senior Project\Prototype\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Dropbox\Senior Project\Prototype\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Dropbox\Senior Project\Prototype\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Conor\Dropbox\Senior Project\Prototype\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove.xnb
+C:\Users\Conor\Dropbox\Senior Project\Prototype\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMove.xnb
+C:\Users\Conor\Dropbox\Senior Project\Prototype\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove2.xnb
+C:\Users\Conor\Dropbox\Senior Project\Prototype\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Dropbox\Senior Project\Prototype\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.csprojResolveAssemblyReference.cache
+C:\Users\Conor\Dropbox\Senior Project\Prototype\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Conor\Dropbox\Senior Project\Prototype\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CrossHair1.xnb
+C:\Users\Conor\Dropbox\Senior Project\Prototype\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyKill.xnb
+C:\Users\Conor\Dropbox\Senior Project\Prototype\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Conor\Desktop\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove.xnb
+C:\Users\Conor\Desktop\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMove.xnb
+C:\Users\Conor\Desktop\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove2.xnb
+C:\Users\Conor\Desktop\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CrossHair1.xnb
+C:\Users\Conor\Desktop\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyKill.xnb
+C:\Users\Conor\Desktop\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.csprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Conor\Desktop\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMoveDodge.xnb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove.xnb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMove.xnb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove2.xnb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CrossHair1.xnb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyKill.xnb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMoveDodge.xnb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMoveDodge Test.xnb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Guns.xnb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToastProjectile.xnb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Colt.xnb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.xnb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.xnb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.wma
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.wma
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.csprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToasterEnemy.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMove.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove2.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CrossHair1.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyKill.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMoveDodge Test.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Guns.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToasterEnemy.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToastProjectile.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Colt.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.wma
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.wma
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.csprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PowerUps.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PlayButton.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\OptionsButton.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ExitButton.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyCrosshair.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\SniperBulletTexture.xnb
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Sniper.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.csprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMove.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove2.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CrossHair1.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyKill.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMoveDodge Test.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Guns.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToasterEnemy.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToastProjectile.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PowerUps.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PlayButton.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\OptionsButton.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ExitButton.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyCrosshair.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\SniperBulletTexture.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Sniper.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround1.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround2.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Colt.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.xnb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.wma
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.wma
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Difficulty.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMove.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove2.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CrossHair1.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyKill.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMoveDodge Test.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Guns.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToasterEnemy.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToastProjectile.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PowerUps.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PlayButton.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\OptionsButton.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ExitButton.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyCrosshair.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\SniperBulletTexture.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Sniper.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround1.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround2.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Difficulty.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Ryen.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Colt.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.wma
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.wma
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.csprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BossProj.xnb
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BossToaster.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMove.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove2.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CrossHair1.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyKill.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMoveDodge Test.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Guns.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToasterEnemy.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToastProjectile.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PowerUps.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PlayButton.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\OptionsButton.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ExitButton.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyCrosshair.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\SniperBulletTexture.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Sniper.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround1.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround2.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Difficulty.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Ryen.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BossProj.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BossToaster.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround3.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Colt.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.wma
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.wma
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.csprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Ryen3.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Continue.xnb
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Winchester.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMove.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove2.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CrossHair1.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyKill.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToasterEnemy.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToastProjectile.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PowerUps.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PlayButton.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\OptionsButton.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ExitButton.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyCrosshair.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\SniperBulletTexture.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Sniper.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround1.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround2.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Difficulty.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BossProj.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BossToaster.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround3.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Ryen3.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Continue.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.wma
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.wma
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.csprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMoveDodge Test.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Montage.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Ryen4.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Colt.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Winchester.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\HIT.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\WOW.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\NOSCOPE.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\2SAD.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\TRIPLE.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\DAMNSON.xnb
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Reload.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMove.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove2.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CrossHair1.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyKill.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMoveDodge Test.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToasterEnemy.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToastProjectile.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PowerUps.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PlayButton.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\OptionsButton.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ExitButton.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyCrosshair.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\SniperBulletTexture.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Sniper.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround1.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround2.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Difficulty.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BossProj.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BossToaster.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround3.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Ryen3.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Continue.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Montage.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Ryen4.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\WesterTown.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Colt.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Winchester.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\HIT.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\WOW.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\NOSCOPE.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\2SAD.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\TRIPLE.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\DAMNSON.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Reload.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.wma
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.wma
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.csprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BreadStall.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\factory.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\kidnap.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\tied up.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PamProj.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PamBoss.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Control Scheme.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene1.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene2.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene3.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene4.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Start2.xnb
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Victory.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMove.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove2.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CrossHair1.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyKill.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMoveDodge Test.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToasterEnemy.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToastProjectile.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PowerUps.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PlayButton.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\OptionsButton.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ExitButton.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyCrosshair.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\SniperBulletTexture.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Sniper.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround1.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround2.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Difficulty.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BossProj.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BossToaster.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround3.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Ryen3.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Continue.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Montage.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Ryen4.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\WesterTown.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BreadStall.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\factory.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\kidnap.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\tied up.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PamProj.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PamBoss.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Victory.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Control Scheme.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Colt.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Winchester.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\HIT.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\WOW.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\NOSCOPE.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\2SAD.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\TRIPLE.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\DAMNSON.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Reload.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene1.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene2.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene3.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene4.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Start2.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.wma
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.wma
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.exe
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.pdb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene1.wma
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene2.wma
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene3.wma
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene4.wma
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.exe.manifest
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Prototype Menues etc.application
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.exe.manifest
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.application
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\Prototype Menues etc.csprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackButton.xnb

@@ -1,0 +1,12 @@
+C:\Users\Mike\Documents\Shu Classes\Senior Project\Prototype Menues etc\Prototype Menues etc\Prototype Menues etcContent\obj\x86\Debug\Prototype Menues etcContent.contentprojResolveAssemblyReference.cache
+C:\Users\Conor\Dropbox\Senior Project\Prototype version 2.1\Prototype Menues etc\Prototype Menues etc\Prototype Menues etcContent\obj\x86\Debug\Prototype Menues etcContent.contentprojResolveAssemblyReference.cache
+C:\Users\Conor\Dropbox\Senior Project\Prototype\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etcContent\obj\x86\Debug\Prototype Menues etcContent.contentprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\1.1 Mouse\Prototype Menues etc\Prototype Menues etc\Prototype Menues etcContent\obj\x86\Debug\Prototype Menues etcContent.contentprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\1.2 Enemy Dodge\Prototype Menues etc\Prototype Menues etc\Prototype Menues etcContent\obj\x86\Debug\Prototype Menues etcContent.contentprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\2.0 New Enemy\Prototype Menues etc\Prototype Menues etc\Prototype Menues etcContent\obj\x86\Debug\Prototype Menues etcContent.contentprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\2.1 Sniper\Prototype Menues etc\Prototype Menues etc\Prototype Menues etcContent\obj\x86\Debug\Prototype Menues etcContent.contentprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\2.2 Ryen Animation\Prototype Menues etc\Prototype Menues etc\Prototype Menues etcContent\obj\x86\Debug\Prototype Menues etcContent.contentprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\2.3 Death\Prototype Menues etc\Prototype Menues etc\Prototype Menues etcContent\obj\x86\Debug\Prototype Menues etcContent.contentprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\3.0 Montage Mode\Prototype Menues etc\Prototype Menues etc\Prototype Menues etcContent\obj\x86\Debug\Prototype Menues etcContent.contentprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\3.1 Cutscenes\Prototype Menues etc\Prototype Menues etc\Prototype Menues etcContent\obj\x86\Debug\Prototype Menues etcContent.contentprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etcContent\obj\x86\Debug\Prototype Menues etcContent.contentprojResolveAssemblyReference.cache

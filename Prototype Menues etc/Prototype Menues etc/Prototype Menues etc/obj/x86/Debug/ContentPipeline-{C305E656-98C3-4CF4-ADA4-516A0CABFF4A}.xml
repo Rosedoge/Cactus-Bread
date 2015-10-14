@@ -1,0 +1,539 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Bullet.png</Source>
+      <Name>Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Bullet.xnb</Output>
+      <Time>2015-03-18T16:23:09.7846653-04:00</Time>
+    </Item>
+    <Item>
+      <Source>CowboyMove.png</Source>
+      <Name>CowboyMove</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove.xnb</Output>
+      <Time>2014-11-16T18:45:55-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyMove.png</Source>
+      <Name>EnemyMove</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMove.xnb</Output>
+      <Time>2014-11-16T18:49:05-05:00</Time>
+    </Item>
+    <Item>
+      <Source>CowboyMove2.png</Source>
+      <Name>CowboyMove2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CowboyMove2.xnb</Output>
+      <Time>2014-11-16T18:47:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>CrossHair1.png</Source>
+      <Name>CrossHair1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\CrossHair1.xnb</Output>
+      <Time>2015-02-04T14:51:37-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyKill.png</Source>
+      <Name>EnemyKill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyKill.xnb</Output>
+      <Time>2014-11-18T12:01:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyMoveDodge Test.png</Source>
+      <Name>EnemyMoveDodge Test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyMoveDodge Test.xnb</Output>
+      <Time>2014-12-01T10:07:27-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ToasterEnemy.png</Source>
+      <Name>ToasterEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToasterEnemy.xnb</Output>
+      <Time>2015-01-09T18:51:27-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ToastProjectile.png</Source>
+      <Name>ToastProjectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ToastProjectile.xnb</Output>
+      <Time>2015-01-09T18:51:51-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PowerUps.png</Source>
+      <Name>PowerUps</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PowerUps.xnb</Output>
+      <Time>2015-01-14T17:14:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayButton.png</Source>
+      <Name>PlayButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PlayButton.xnb</Output>
+      <Time>2015-01-21T10:06:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>OptionsButton.png</Source>
+      <Name>OptionsButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\OptionsButton.xnb</Output>
+      <Time>2015-01-20T19:23:27-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ExitButton.png</Source>
+      <Name>ExitButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\ExitButton.xnb</Output>
+      <Time>2015-01-21T10:07:37-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyCrosshair.png</Source>
+      <Name>EnemyCrosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\EnemyCrosshair.xnb</Output>
+      <Time>2015-01-21T16:37:49-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SniperBulletTexture.png</Source>
+      <Name>SniperBulletTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\SniperBulletTexture.xnb</Output>
+      <Time>2015-01-21T17:42:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sniper.png</Source>
+      <Name>Sniper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Sniper.xnb</Output>
+      <Time>2015-01-22T00:03:43-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BackGround1.png</Source>
+      <Name>BackGround1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround1.xnb</Output>
+      <Time>2015-01-28T10:19:31-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BackGround2.png</Source>
+      <Name>BackGround2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround2.xnb</Output>
+      <Time>2015-01-27T16:44:03-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Difficulty.png</Source>
+      <Name>Difficulty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Difficulty.xnb</Output>
+      <Time>2015-01-28T16:26:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BossProj.png</Source>
+      <Name>BossProj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BossProj.xnb</Output>
+      <Time>2015-02-03T18:27:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BossToaster.png</Source>
+      <Name>BossToaster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BossToaster.xnb</Output>
+      <Time>2015-02-03T23:29:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Ryen3.png</Source>
+      <Name>Ryen3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Ryen3.xnb</Output>
+      <Time>2015-02-05T15:01:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Continue.png</Source>
+      <Name>Continue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Continue.xnb</Output>
+      <Time>2015-02-05T18:28:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Montage.png</Source>
+      <Name>Montage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Montage.xnb</Output>
+      <Time>2015-02-07T10:40:05-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Ryen4.png</Source>
+      <Name>Ryen4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Ryen4.xnb</Output>
+      <Time>2015-02-07T16:17:07-05:00</Time>
+    </Item>
+    <Item>
+      <Source>WesterTown.png</Source>
+      <Name>WesterTown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\WesterTown.xnb</Output>
+      <Time>2015-03-03T18:13:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BreadStall.png</Source>
+      <Name>BreadStall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BreadStall.xnb</Output>
+      <Time>2015-03-03T18:13:41-05:00</Time>
+    </Item>
+    <Item>
+      <Source>factory.png</Source>
+      <Name>factory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\factory.xnb</Output>
+      <Time>2015-03-03T18:13:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>kidnap.png</Source>
+      <Name>kidnap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\kidnap.xnb</Output>
+      <Time>2015-03-03T18:13:51-05:00</Time>
+    </Item>
+    <Item>
+      <Source>tied up.png</Source>
+      <Name>tied up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\tied up.xnb</Output>
+      <Time>2015-03-03T18:13:53-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PamProj.png</Source>
+      <Name>PamProj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PamProj.xnb</Output>
+      <Time>2015-03-03T19:01:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>PamBoss.png</Source>
+      <Name>PamBoss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\PamBoss.xnb</Output>
+      <Time>2015-03-06T15:52:47-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Victory.png</Source>
+      <Name>Victory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Victory.xnb</Output>
+      <Time>2015-03-11T14:15:11-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Control Scheme.png</Source>
+      <Name>Control Scheme</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Control Scheme.xnb</Output>
+      <Time>2015-03-31T09:05:55.7451079-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BackGround3.png</Source>
+      <Name>BackGround3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackGround3.xnb</Output>
+      <Time>2015-03-11T15:44:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\gameFont.xnb</Output>
+      <Time>2011-04-02T20:18:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Colt.wav</Source>
+      <Name>Colt</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Colt.xnb</Output>
+      <Time>2014-12-02T18:53:09.5922138-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Winchester.wav</Source>
+      <Name>Winchester</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Winchester.xnb</Output>
+      <Time>2015-02-06T23:19:38.6641947-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HIT.wav</Source>
+      <Name>HIT</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\HIT.xnb</Output>
+      <Time>2015-02-07T10:23:20.2621589-05:00</Time>
+    </Item>
+    <Item>
+      <Source>WOW.wav</Source>
+      <Name>WOW</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\WOW.xnb</Output>
+      <Time>2015-02-07T10:22:45.9892264-05:00</Time>
+    </Item>
+    <Item>
+      <Source>NOSCOPE.wav</Source>
+      <Name>NOSCOPE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\NOSCOPE.xnb</Output>
+      <Time>2015-02-07T11:20:06.7443562-05:00</Time>
+    </Item>
+    <Item>
+      <Source>2SAD.wav</Source>
+      <Name>2SAD</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\2SAD.xnb</Output>
+      <Time>2015-02-07T11:34:20.9499341-05:00</Time>
+    </Item>
+    <Item>
+      <Source>TRIPLE.wav</Source>
+      <Name>TRIPLE</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\TRIPLE.xnb</Output>
+      <Time>2015-02-07T16:38:09.4736217-05:00</Time>
+    </Item>
+    <Item>
+      <Source>DAMNSON.wav</Source>
+      <Name>DAMNSON</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\DAMNSON.xnb</Output>
+      <Time>2015-02-07T17:56:05.672023-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Reload.wav</Source>
+      <Name>Reload</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Reload.xnb</Output>
+      <Time>2015-02-07T20:39:47.3761865-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Start2.wav</Source>
+      <Name>Start2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Start2.xnb</Output>
+      <Time>2015-03-11T11:14:06.6750449-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BeforeDawn.mp3</Source>
+      <Name>BeforeDawn</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.xnb</Output>
+      <Extra>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BeforeDawn.wma</Extra>
+      <Time>2014-12-02T19:13:42.4483146-05:00</Time>
+    </Item>
+    <Item>
+      <Source>JennysTheme.mp3</Source>
+      <Name>JennysTheme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.xnb</Output>
+      <Extra>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\JennysTheme.wma</Extra>
+      <Time>2014-12-02T19:12:23.1367317-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene1.mp3</Source>
+      <Name>Scene1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene1.xnb</Output>
+      <Extra>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene1.wma</Extra>
+      <Time>2015-03-11T16:53:34.1617479-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene2.mp3</Source>
+      <Name>Scene2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene2.xnb</Output>
+      <Extra>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene2.wma</Extra>
+      <Time>2015-03-11T16:54:00.4471002-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene3.mp3</Source>
+      <Name>Scene3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene3.xnb</Output>
+      <Extra>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene3.wma</Extra>
+      <Time>2015-03-11T16:54:11.5557125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Scene4.mp3</Source>
+      <Name>Scene4</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene4.xnb</Output>
+      <Extra>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\Scene4.wma</Extra>
+      <Time>2015-03-11T16:54:21.2770074-04:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen.png</Source>
+      <Name>TitleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\TitleScreen.xnb</Output>
+      <Time>2015-03-19T09:54:23.7286282-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BackButton.png</Source>
+      <Name>BackButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\BackButton.xnb</Output>
+      <Time>2015-03-22T11:10:58.5651401-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C305E656-98C3-4CF4-ADA4-516A0CABFF4A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etcContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Conor\Desktop\4.0 Voices\Prototype Menues etc\Prototype Menues etc\Prototype Menues etc\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-15T12:03:32.4554673-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
